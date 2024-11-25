@@ -24,6 +24,12 @@ The Rate of Attrition in many Organisation has increased, It is a crucial Issue 
   
 - GoogleSheets
 
+### Table: 
+
+
+[HR Data.xlsx](https://github.com/user-attachments/files/17909370/HR.Data.xlsx)
+
+
 
 ### Data Cleaning/ Preparation
 
