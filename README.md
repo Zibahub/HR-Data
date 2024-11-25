@@ -34,12 +34,14 @@ The Rate of Attrition in many Organisation has increased, It is a crucial Issue 
 ### Data Cleaning/ Preparation
 
 We gathered relevant HR data, including employee demographics, job details, age category, department, and attrition records.
+
 Handle missing values, outliers, and data inconsistencies to ensure data quality. We removed unneccessary columns, errors, duplicates and we added some summarizations like, Average Attrition, Sum, counts and percentage.
+
 We also convert data into suitable formats for analysis, such as aggregating data or creating new variables.
 
 ### Exploratory Data Analysis: 
 
-We did some data, summarizations, percentage of Attrition in different Departmnet, Average, Attriton etc. We plotted some Visuals, Bar Charts, Pie Chart, Matrix, Pivot Tables, Q&A, Cards etc to plot graghs, create visuals and transform data.
+We did some data summarizations, percentage of Attrition in different Department, Average, Attriton etc. We plotted some Visuals, Bar Charts, Pie Chart, Matrix, Pivot Tables, Q&A, Cards etc to plot graghs, create visuals and transform data.
 
 ### Data Analysis:
 
